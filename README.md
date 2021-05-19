@@ -24,4 +24,13 @@ Download dataset from: https://finance.yahoo.com/quote/TSLA/history/
 
 The Test RMSE:  87.33592933134882
 
+# LSTM Neural Network
 
+![Screen Shot 2021-05-18 at 11 23 28 PM](https://user-images.githubusercontent.com/72099238/118756232-17abad00-b830-11eb-8455-27ff216d58f4.png)
+
+Test RMSE improved which is 45.88
+
+# Future Work
+
+- Do neural network with Multivariate.
+- Optimal neural network
