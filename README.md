@@ -21,3 +21,7 @@ Download dataset from: https://finance.yahoo.com/quote/TSLA/history/
 # Auto ARIMA
 
 ![Screen Shot 2021-05-18 at 11 10 59 PM](https://user-images.githubusercontent.com/72099238/118755387-60fafd00-b82e-11eb-8e23-7e85038a885d.png)
+
+The Test RMSE:  87.33592933134882
+
+
